@@ -1,10 +1,10 @@
 # Evaluating DöppleGANger
 
-***here the keyword "the paper" refers to [this](https://pub.towardsai.net/generating-synthetic-sequential-data-using-gans-a1d67a7752ac) paper and "DöppleGANger" refers to [this](https://github.com/fjxmlzn/DoppelGANger) repository
+***here the keyword "the paper" refers to [this](https://pub.towardsai.net/generating-synthetic-sequential-data-using-gans-a1d67a7752ac) paper and "DöppleGANger" refers to [this](https://github.com/fjxmlzn/DoppelGANger) repository**
 
-*I have used Python 3.6 and Tensorflow 1.4.0 for this project to make it compatible with Döppleganger.
+***I have used Python 3.6 and Tensorflow 1.4.0 for this project to make it compatible with Döppleganger.**
 
-The project contains a Trainer and a Generator file along side the gan folder from the DöppleGANger repository, "test" folder containing the generated training data and the dataset.**
+**The project contains a Trainer and a Generator file along side the gan folder from the DöppleGANger repository, "test" folder containing the generated training data and the dataset.**
 
 
 On the Trainer side, first the data are being preprocessed and then fed to DöppleGANger to build and train, the preprocessing steps are as follows in detail:
